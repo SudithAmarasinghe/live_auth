@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+face-alignment
+pillow
+numpy
+torch
+torchvision
+scikit-learn
